@@ -171,11 +171,22 @@
 <br>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=0x04A1A430&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=6E7681&text_color=C9D1D9&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0x04A1A430&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=C9D1D9&icon_color=6E7681&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" width="48%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=0x04A1A430&hide_border=true&background=%230D1117&ring=%238B949E&fire=%236E7681&currStreakLabel=%23C9D1D9&sideNums=%23C9D1D9&sideLabels=%238B949E&dates=%236E7681" alt="GitHub Streak" width="70%" />
+### Most Used Languages
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-99.07%25-0D1117?style=flat-square&logo=python&logoColor=8B949E&labelColor=21262D&color=8B949E" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-0.41%25-0D1117?style=flat-square&logo=dotnet&logoColor=8B949E&labelColor=21262D&color=6E7681" alt="C#" />
+<img src="https://img.shields.io/badge/HTML-0.24%25-0D1117?style=flat-square&logo=html5&logoColor=8B949E&labelColor=21262D&color=6E7681" alt="HTML" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CSS-0.12%25-0D1117?style=flat-square&logo=css3&logoColor=8B949E&labelColor=21262D&color=6E7681" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-0.10%25-0D1117?style=flat-square&logo=javascript&logoColor=8B949E&labelColor=21262D&color=6E7681" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Shell-0.07%25-0D1117?style=flat-square&logo=gnubash&logoColor=8B949E&labelColor=21262D&color=6E7681" alt="Shell" />
 
 </div>
 
