@@ -231,12 +231,6 @@
 <td align="center"><img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=8B949E" alt="JavaScript" /></td>
 <td align="center"><img src="https://img.shields.io/github/stars/0x04A1A430/export-ya.music?style=flat&color=8B949E&labelColor=0D1117" alt="Stars" /></td>
 </tr>
-<tr>
-<td align="left"><a href="https://github.com/0x04A1A430/sign_steam_alph"><b>sign_steam_alph</b></a></td>
-<td align="left">Steam signing utility</td>
-<td align="center"><img src="https://img.shields.io/badge/Shell-0D1117?style=flat&logo=gnubash&logoColor=8B949E" alt="Shell" /></td>
-<td align="center"><img src="https://img.shields.io/github/stars/0x04A1A430/sign_steam_alph?style=flat&color=8B949E&labelColor=0D1117" alt="Stars" /></td>
-</tr>
 </table>
 
 </div>
